@@ -1,0 +1,23 @@
+syntax on
+syntax enable
+filetype plugin indent on
+set noerrorbells
+set tabstop=2
+set softtabstop=2
+set expandtab
+set shiftwidth=2
+set smartindent
+set nowrap
+set smartcase
+set noswapfile
+set nobackup
+set undodir=~/.vim/undodir
+set undofile
+set number
+set noshowmode
+set cursorline
+set wildmenu
+set showmatch
+set incsearch
+set laststatus=2
+set scrolloff=10
