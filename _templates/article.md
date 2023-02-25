@@ -12,3 +12,5 @@ Author: Andy Matuschak
 Link: https://notes.andymatuschak.org/Work_with_the_garage_door_up
 
 # <Article>
+
+Edited Last: {{date}}

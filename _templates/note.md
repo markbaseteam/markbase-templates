@@ -10,3 +10,5 @@ Topic: [[Topic]]
 Tags: #tag1 #tag2 #tag3
 
 # <Note>
+
+Edited Last: {{date}}
